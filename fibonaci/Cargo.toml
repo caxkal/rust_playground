@@ -1,0 +1,7 @@
+[package]
+name = "fibonaci"
+version = "0.1.0"
+authors = ["Sargis Hovasapyan <caxkal@gmail.com>"]
+edition = "2018"
+
+[dependencies]
